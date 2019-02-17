@@ -1,0 +1,17 @@
+1. Create new app - Done
+
+2. Create Components on the page 
+
+a. Create a Nav bar with Clicky Game (link), "click an Image to begin(H2) and Score: 0 | Top Score: 0
+
+b. Create a static Jumbotron with static text (Clicky Game!) Click on an image to earn points, but don't click on any more than once!
+
+c. Pics component with a 4x3 picture tiles
+
+d. Footer
+
+3. State handling for the components
+
+a. Clicky Game link
+
+b. Each tile
